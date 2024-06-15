@@ -1,9 +1,2 @@
-# Change Log
-
-All notable changes to the "codebee-tools" extension pack will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [0.0.1] - 2024-06-15
+### Initial release

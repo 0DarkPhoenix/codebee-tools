@@ -1,11 +1,12 @@
 {
     "name": "codebee-tools",
     "displayName": "CodeBee Tools",
-    "description": "Handy extensions for CodeBee",
+    "description": "Extension Pack for cool programmers ;)",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.90.0"
     },
+    "icon": "images/logo.png",
     "categories": [
         "Extension Packs"
     ],
