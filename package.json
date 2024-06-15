@@ -1,0 +1,16 @@
+{
+    "name": "codebee-tools",
+    "displayName": "CodeBee Tools",
+    "description": "Handy extensions for CodeBee",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "DarkPhoenix.split-mui-imports",
+        "DarkPhoenix.debian-changelog-item-creator"
+    ]
+}
