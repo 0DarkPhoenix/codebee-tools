@@ -2,11 +2,16 @@
     "name": "codebee-tools",
     "displayName": "CodeBee Tools",
     "description": "Handy extensions for CodeBee",
+    "publisher": "DarkPhoenix",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.90.0"
     },
     "icon": "images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/0DarkPhoenix/codebee-tools.git"
+    },
     "categories": [
         "Extension Packs"
     ],
