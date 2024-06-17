@@ -1,17 +1,36 @@
 {
     "name": "codebee-tools",
     "displayName": "CodeBee Tools",
-    "description": "Extension Pack for cool programmers ;)",
+    "description": "Handy extensions for CodeBee",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.90.0"
     },
-    "icon": "images/logo.png",
     "categories": [
         "Extension Packs"
     ],
     "extensionPack": [
         "DarkPhoenix.split-mui-imports",
-        "DarkPhoenix.debian-changelog-item-creator"
+        "DarkPhoenix.debian-changelog-item-creator",
+        "dawidd6.debian-vscode",
+        "ms-python.autopep8",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "stackbreak.comment-divider",
+        "ms-python.debugpy",
+        "rodolphebarbanneau.python-docstring-highlighter",
+        "KevinRose.vsc-python-indent",
+        "esbenp.prettier-vscode",
+        "vscodeshift.material-ui-snippets",
+        "PKief.material-icon-theme",
+        "ms-python.isort",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "jsynowiec.vscode-insertdatestring",
+        "ecmel.vscode-html-css",
+        "waderyan.gitblame",
+        "naumovs.color-highlight",
+        "usernamehw.errorlens",
+        "mdebi.fstring-converter"
     ]
 }
