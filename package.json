@@ -3,7 +3,7 @@
     "displayName": "CodeBee Tools",
     "description": "Handy extensions for CodeBee",
     "publisher": "DarkPhoenix",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.90.0"
     },
@@ -22,21 +22,20 @@
         "ms-python.autopep8",
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "stackbreak.comment-divider",
+        "ms-python.isort",
         "ms-python.debugpy",
         "rodolphebarbanneau.python-docstring-highlighter",
         "KevinRose.vsc-python-indent",
+        "mdebi.fstring-converter",
         "esbenp.prettier-vscode",
         "vscodeshift.material-ui-snippets",
         "PKief.material-icon-theme",
-        "ms-python.isort",
         "VisualStudioExptTeam.vscodeintellicode",
         "VisualStudioExptTeam.intellicode-api-usage-examples",
-        "jsynowiec.vscode-insertdatestring",
         "ecmel.vscode-html-css",
         "waderyan.gitblame",
         "naumovs.color-highlight",
         "usernamehw.errorlens",
-        "mdebi.fstring-converter"
+        "stackbreak.comment-divider"
     ]
 }
