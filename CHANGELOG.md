@@ -1,3 +1,7 @@
+## [0.0.4] - 2024-07-02
+### Added
+- I18N Tools International
+
 ## [0.0.3] - 2024-06-24
 ### Removed
 - f-string Converter (Python 3.6+)

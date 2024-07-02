@@ -3,7 +3,7 @@
 	"displayName": "CodeBee Tools",
 	"description": "Handy extensions for CodeBee",
 	"publisher": "DarkPhoenix",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.90.0"
 	},
@@ -14,6 +14,7 @@
 	},
 	"categories": ["Extension Packs"],
 	"extensionPack": [
+		"DarkPhoenix.i18n-tools-international",
 		"DarkPhoenix.split-mui-imports",
 		"DarkPhoenix.debian-changelog-item-creator",
 		"dawidd6.debian-vscode",
