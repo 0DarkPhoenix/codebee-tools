@@ -3,7 +3,7 @@
 	"displayName": "CodeBee Tools",
 	"description": "Handy extensions for CodeBee",
 	"publisher": "DarkPhoenix",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"engines": {
 		"vscode": "^1.90.0"
 	},
@@ -18,10 +18,9 @@
 		"DarkPhoenix.split-mui-imports",
 		"DarkPhoenix.debian-changelog-item-creator",
 		"dawidd6.debian-vscode",
-		"ms-python.autopep8",
+		"charliermarsh.ruff",
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"ms-python.isort",
 		"ms-python.debugpy",
 		"rodolphebarbanneau.python-docstring-highlighter",
 		"KevinRose.vsc-python-indent",

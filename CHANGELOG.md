@@ -1,3 +1,10 @@
+## [0.0.5] - 2024-09-24
+### Added
+- Ruff
+### Removed
+- Autopep8
+- Isort
+
 ## [0.0.4] - 2024-07-02
 ### Added
 - I18N Tools International
