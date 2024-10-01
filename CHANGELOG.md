@@ -1,3 +1,7 @@
+## [0.0.6] - 2024-09-30
+### Added
+- Even Better TOML
+
 ## [0.0.5] - 2024-09-24
 ### Added
 - Ruff
