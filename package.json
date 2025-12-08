@@ -3,7 +3,7 @@
 	"displayName": "CodeBee Tools",
 	"description": "Handy extensions for CodeBee",
 	"publisher": "DarkPhoenix",
-	"version": "0.0.6",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.90.0"
 	},
@@ -12,28 +12,28 @@
 		"type": "git",
 		"url": "https://github.com/0DarkPhoenix/codebee-tools.git"
 	},
-	"categories": ["Extension Packs"],
+	"categories": [
+		"Extension Packs"
+	],
 	"extensionPack": [
+		"biomejs.biome",
+		"charliermarsh.ruff",
+		"DarkPhoenix.debian-changelog-item-creator",
 		"DarkPhoenix.i18n-tools-international",
 		"DarkPhoenix.split-mui-imports",
-		"DarkPhoenix.debian-changelog-item-creator",
 		"dawidd6.debian-vscode",
-		"tamasfe.even-better-toml",
-		"charliermarsh.ruff",
+		"ecmel.vscode-html-css",
+		"kevinrose.vsc-python-indent",
+		"ms-python.debugpy",
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"ms-python.debugpy",
-		"rodolphebarbanneau.python-docstring-highlighter",
-		"KevinRose.vsc-python-indent",
-		"esbenp.prettier-vscode",
-		"vscodeshift.material-ui-snippets",
-		"PKief.material-icon-theme",
-		"VisualStudioExptTeam.vscodeintellicode",
-		"VisualStudioExptTeam.intellicode-api-usage-examples",
-		"ecmel.vscode-html-css",
-		"waderyan.gitblame",
 		"naumovs.color-highlight",
+		"PKief.material-icon-theme",
+		"redhat.vscode-yaml",
+		"rodolphebarbanneau.python-docstring-highlighter",
+		"stackbreak.comment-divider",
+		"tamasfe.even-better-toml",
 		"usernamehw.errorlens",
-		"stackbreak.comment-divider"
+		"waderyan.gitblame"
 	]
 }

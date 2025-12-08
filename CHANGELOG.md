@@ -1,3 +1,13 @@
+## [1.0.0] - 2025-12-08
+### Added
+- Biome
+- Yaml
+### Removed
+- Material UI Snippets
+- Prettier
+- VS Code Intellicode
+- VS Code Intellicode API Examples
+
 ## [0.0.6] - 2024-09-30
 ### Added
 - Even Better TOML
