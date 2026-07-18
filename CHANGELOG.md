@@ -1,3 +1,10 @@
+## [1.1.0] - 2026-07-18
+### Added
+- Pyrefly
+### Removed
+- Pylance
+
+
 ## [1.0.0] - 2025-12-08
 ### Added
 - Biome
